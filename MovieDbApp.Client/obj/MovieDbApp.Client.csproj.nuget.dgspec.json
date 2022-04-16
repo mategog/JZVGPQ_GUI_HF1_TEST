@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Client\\MovieDbApp.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Client\\MovieDbApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Client\\MovieDbApp.Client.csproj",
+        "projectName": "MovieDbApp.Client",
+        "projectPath": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Client\\MovieDbApp.Client.csproj",
+        "packagesPath": "C:\\Users\\gogma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gogma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Models\\MovieDbApp.Models.csproj": {
+                "projectPath": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Models\\MovieDbApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ConsoleMenu-simple": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Models\\MovieDbApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Models\\MovieDbApp.Models.csproj",
+        "projectName": "MovieDbApp.Models",
+        "projectPath": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Models\\MovieDbApp.Models.csproj",
+        "packagesPath": "C:\\Users\\gogma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gogma\\OneDrive\\Dokumentumok\\JZVGPQ_GUI_HF1\\MovieDbApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gogma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

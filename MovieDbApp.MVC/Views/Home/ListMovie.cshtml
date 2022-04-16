@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MovieDbApp.Models.Movie>
+
+<ul>
+    @{
+        foreach (var item in @Model)
+        {
+            <li>
+                @item.Title
+                <ul>
+                @{
+                    foreach(var role in item.Roles)
+                    {
+                        <li>@role.RoleName : @role.Actor.ActorName</li>
+                    }
+                }
+                </ul>
+            </li>
+        }
+    }
+</ul>

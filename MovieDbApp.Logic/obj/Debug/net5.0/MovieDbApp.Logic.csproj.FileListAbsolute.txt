@@ -1,0 +1,17 @@
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Logic.deps.json
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Logic.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Logic.pdb
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Models.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Repository.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Models.pdb
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\bin\Debug\net5.0\MovieDbApp.Repository.pdb
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.csproj.AssemblyReference.cache
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.AssemblyInfoInputs.cache
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.AssemblyInfo.cs
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.csproj.CopyComplete
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\refint\MovieDbApp.Logic.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\MovieDbApp.Logic.pdb
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Logic\obj\Debug\net5.0\ref\MovieDbApp.Logic.dll

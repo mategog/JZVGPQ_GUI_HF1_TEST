@@ -1,0 +1,12 @@
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\MovieDbApp.Models.deps.json
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\MovieDbApp.Models.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\bin\Debug\net5.0\MovieDbApp.Models.pdb
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.csproj.AssemblyReference.cache
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.AssemblyInfoInputs.cache
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.AssemblyInfo.cs
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\refint\MovieDbApp.Models.dll
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\MovieDbApp.Models.pdb
+C:\Users\gogma\OneDrive\Dokumentumok\Prog4\HFT08\MovieDbApp\MovieDbApp.Models\obj\Debug\net5.0\ref\MovieDbApp.Models.dll
